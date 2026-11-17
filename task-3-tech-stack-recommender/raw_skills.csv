@@ -1,0 +1,36 @@
+role,skill
+Data Scientist,python
+Data Scientist,sql
+Data Scientist,machine learning
+Data Scientist,statistics
+Data Scientist,pandas
+DevOps Engineer,aws
+DevOps Engineer,docker
+DevOps Engineer,kubernetes
+DevOps Engineer,ci/cd
+DevOps Engineer,automation
+Backend Developer,java
+Backend Developer,python
+Backend Developer,sql
+Backend Developer,apis
+Backend Developer,data structures
+Cloud Architect,aws
+Cloud Architect,cloud computing
+Cloud Architect,automation
+Cloud Architect,kubernetes
+Cloud Architect,networking
+ML Engineer,python
+ML Engineer,machine learning
+ML Engineer,tensorflow
+ML Engineer,statistics
+ML Engineer,sql
+Frontend Developer,javascript
+Frontend Developer,react
+Frontend Developer,css
+Frontend Developer,html
+Frontend Developer,ui design
+Cybersecurity Analyst,networking
+Cybersecurity Analyst,linux
+Cybersecurity Analyst,cryptography
+Cybersecurity Analyst,penetration testing
+Cybersecurity Analyst,automation
